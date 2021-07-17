@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore config files
+config.py
+
+#weather site API 
+36373e14bdb29dde623654ce8f3b1323
+
